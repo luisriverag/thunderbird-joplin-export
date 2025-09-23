@@ -85,6 +85,10 @@ What to do when the export failed?
 3. Check the developer console. Usually it can be opened by pressing "Ctrl + Shift + I" or going to "Extras -> Developer Tools". There should be some error message.
 4. If the previous steps didn't resolve the issue, you can open a github issue or email me.
 
+### Compatibility with the Thunderbird Conversations add-on
+
+Unfortunately, Thunderbird Conversations and Joplin Export are not compatible. See <https://github.com/marph91/thunderbird-joplin-export/issues/41>.
+
 ## Related Projects
 
 - [Overview in the Joplin forum](https://discourse.joplinapp.org/t/how-to-handle-emails-with-joplin-desktop/37469)
